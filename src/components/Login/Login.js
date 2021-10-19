@@ -2,7 +2,7 @@ import React from 'react';
 import { Button, Col, Form, Row } from 'react-bootstrap';
 import { Link,useLocation,useHistory  } from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
-
+import google from '../../images/google.png'
 const Login = () => {
     const {signInUsingGoogle}=useAuth()
     const location =useLocation();
@@ -51,7 +51,7 @@ const handleGoogleLogin=()=>{
 <hr />
 <hr />
 <div>---Login Anathor Way---</div>
-<button onClick={handleGoogleLogin} className="btn btn-info mb-5 mt-5">Login Using Google</button>
+   <button onClick={handleGoogleLogin} className="btn btn-info mb-5 mt-5"><img src={google} alt="" /> Login Using Google</button>
  </div>
 
 
