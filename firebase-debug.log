@@ -1,0 +1,38 @@
+[debug] [2021-10-19T15:48:29.923Z] ----------------------------------------------------------------------
+[debug] [2021-10-19T15:48:29.928Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\abuza\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login:ci
+[debug] [2021-10-19T15:48:29.928Z] CLI Version:   9.20.0
+[debug] [2021-10-19T15:48:29.928Z] Platform:      win32
+[debug] [2021-10-19T15:48:29.929Z] Node Version:  v14.18.0
+[debug] [2021-10-19T15:48:29.930Z] Time:          Tue Oct 19 2021 21:48:29 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-10-19T15:48:29.930Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=179234709&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2021-10-19T15:49:03.440Z] ----------------------------------------------------------------------
+[debug] [2021-10-19T15:49:03.444Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\abuza\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-10-19T15:49:03.445Z] CLI Version:   9.20.0
+[debug] [2021-10-19T15:49:03.445Z] Platform:      win32
+[debug] [2021-10-19T15:49:03.445Z] Node Version:  v14.18.0
+[debug] [2021-10-19T15:49:03.447Z] Time:          Tue Oct 19 2021 21:49:03 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-10-19T15:49:03.447Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-19T15:49:03.459Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-19T15:49:03.460Z] > authorizing via signed-in user (abuzargefari98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Project\assaignment-10
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+

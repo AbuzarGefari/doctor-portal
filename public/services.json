@@ -1,0 +1,39 @@
+[{
+    "id": 1,
+    "name": "Opthalmology",
+    "image": "https://nostalgic-aryabhata-9df9df.netlify.app/1.png",
+    "coursefee":1250,
+    "details":"The credentials include a degree in medicine, followed by additional four to five years of residency training in ophthalmology. Residency training programs for ophthalmology may require a one-year internship with training in internal medicine, "
+  }, 
+  {
+    "id": 2,
+    "name":"Dental Care",
+    "image": "https://nostalgic-aryabhata-9df9df.netlify.app/2.png",
+    "coursefee":1000,
+      "details":"chieving healthy teeth takes a lifetime of care. Even if you’ve been told that you have nice teeth, it’s crucial to take the right steps every day to take care of them and prevent problems. This involves getting the right oral care products"
+  },
+   {
+    "id": 3,
+    "name": "Medical Lab",
+    "image": "https://nostalgic-aryabhata-9df9df.netlify.app/3.png",
+    "coursefee": 3000,
+      "details":"A medical laboratory scientist (MLS), also known as a medical technologist or clinical laboratory scientist, works to analyze a variety of biological specimens. They are responsible for performing scientific testing on samples and reporting results to physicians.  "
+  }, {
+    "id": 4,
+    "name": "Emergency Room",
+    "image": "https://nostalgic-aryabhata-9df9df.netlify.app/4.png",
+    "coursefee": 3000,
+      "details":"An emergency department (ED), also known as an accident & emergency department (A&E), emergency room (ER), emergency ward (EW) or casualty department, is a medical treatment facility specializing in"
+  },{
+    "id": 5,
+    "name": "Blood Bank",
+    "image": "https://nostalgic-aryabhata-9df9df.netlify.app/5.png",
+    "coursefee": 5000,
+      "details":"Evercare Blood Bank is a place for collecting, screening, typing, processing, and storing whole blood, packed red blood cells, fresh frozen plasma and platelet concentrate, gathered as a result of blood donation."
+  }, {
+    "id": 6,
+    "name": "OPERATION THEATER",
+    "image": "https://nostalgic-aryabhata-9df9df.netlify.app/6.png",
+    "coursefee": 2300,
+      "details":"One of the core functions of any medical establishment is to conduct surgical operations. The reputation of any hospital is often judged by the number of successful operations performed by its doctors."
+  }]
