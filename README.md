@@ -1,5 +1,5 @@
 # Hi I am Md Abuzar Gefari
-Assaignment Live Site:(/).
+Assaignment Live Site:(https://assaignment-10-dep.netlify.app/).
 
 
 
